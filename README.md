@@ -1,7 +1,6 @@
 💬 About Me
 
 안녕하세요! 
-자기소개서(링크)
 
 📝 포트폴리오<a href="https://short-cardboard-33e.notion.site/05d73fbd03cf4a70acf01d2c5c08758a">(링크)</a>
 
