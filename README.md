@@ -22,7 +22,7 @@ FrontEnd
 
 BackEnd
 
-<img src="https://img.shields.io/badge/-Spring Boot-6DB33F?logo=Springboot&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-Flask-000000?logo=Flask&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Spring Boot-6DB33F?logo=Springboot&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-Django-000000?logo=Django&logoColor=white&style=for-the-badge"/>
 
 
    
