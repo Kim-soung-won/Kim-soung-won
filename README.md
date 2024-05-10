@@ -42,7 +42,7 @@ DataBase
 
  
 
-Cloud
+DevOps
 
 <img src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-Jenkins-D24939?logo=Jenkins&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-NCP-03C75A?&style=for-the-badge"/> <img src="https://img.shields.io/badge/-AWS-232F3E?logo=Amazon AWS&logoColor=white&style=for-the-badge"/>
 
