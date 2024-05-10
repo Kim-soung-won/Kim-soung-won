@@ -10,7 +10,7 @@
 Language
 
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src = "https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-C%23-512BD4?logo=csharp&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-C언어-A8B9CC?logo=c&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src = "https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge"/>
 
 
 
@@ -18,7 +18,7 @@ Language
 
 FrontEnd
 
-<img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jQuery&logoColor=white&style=for-the-badge"/>
 
     
 
@@ -43,6 +43,8 @@ DataBase
  
 
 Cloud
+
+<img src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-Jenkins-D24939?logo=Jenkins&logoColor=white&style=for-the-badge"/> <img src="https://img.shields.io/badge/-NCP-03C75A?&style=for-the-badge"/> <img src="https://img.shields.io/badge/-AWS-232F3E?logo=Amazon AWS&logoColor=white&style=for-the-badge"/>
 
 
 
