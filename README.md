@@ -2,7 +2,7 @@
 
 안녕하세요. Data를 기록하고 공유하는, 배움을 나누는 개발자 김승원입니다.
 
-📝 포트폴리오<a href="https://short-cardboard-33e.notion.site/05d73fbd03cf4a70acf01d2c5c08758a">(링크)</a>
+📝 포트폴리오<a href="https://won0103.notion.site/05d73fbd03cf4a70acf01d2c5c08758a">(링크)</a>
 
 💬 기술 블로그<a href="https://rlatmddnjs0103.tistory.com/">(링크)</a>
 
